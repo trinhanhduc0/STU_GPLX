@@ -1,0 +1,1 @@
+Import database vào mysql và sửa thông tin connection trong dbcontext
